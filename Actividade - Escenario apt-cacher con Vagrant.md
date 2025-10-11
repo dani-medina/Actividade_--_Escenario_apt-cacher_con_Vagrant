@@ -16,7 +16,7 @@ O equipo Router (R) vai a estar conectado a tres redes:
 
 ## Exercicio 1
 
-Descarga os arquivos do proxecto de Vagrant que tes dipoñible nesta [enlace](https://github.com/dani-medina/Actividade_--_Escenario_apt-cacher_con_Vagrant/blob/main/ficheiros/E-Apt-Cacher.zip).
+Descarga os arquivos do proxecto de Vagrant que tes dispoñible no cartafol deste proxecto E-APT-CACHER.
 
 Fai as modificacións necesarias nos arquivos para que o equipo ROUTER se comporto como un ROUTER NAT. Para iso:
 
